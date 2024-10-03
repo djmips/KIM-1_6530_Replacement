@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KIM_6530_replacement")(type "KiCad")(uri "$(KIPRJMOD)/KIM_6530_replacement.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "KIM_6530_replacement-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/KIM_6530_replacement-eagle-import.kicad_sym")(options "")(descr ""))
+)
